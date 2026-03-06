@@ -1,0 +1,6 @@
+PyYAML==6.0.3
+beautifulsoup4==4.12.*
+toml==0.10.*
+jedi==0.19.*
+radon==6.*
+pygments==2.19.*

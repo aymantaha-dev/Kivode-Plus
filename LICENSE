@@ -1,0 +1,58 @@
+Kivode+ Community Non-Commercial License 1.0
+Copyright (c) 2026 Kivode+
+
+1. Grant of Rights
+Subject to the terms of this License, permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software") to use, copy, study, modify, and distribute the Software, including modified or renamed forks, for non-commercial purposes.
+
+2. Redistribution
+Redistributions of source code or binary form, with or without modification, are permitted for non-commercial purposes provided that:
+(a) this License is included with the distribution; and
+(b) all copyright and attribution notices are preserved.
+
+3. Mandatory Community Submission for Public Forks
+If You publicly publish, distribute, or make available a modified version of the Software, You must submit that modified version to:
+https://kivode.com/apps/submit
+
+Approved applications may be listed publicly and may include:
+- application name,
+- developer name,
+- social media links,
+- repository link,
+- version tags.
+
+4. Commercial Restrictions
+The following are strictly prohibited without separate written permission from the Licensor:
+(a) selling the Software or any derivative work;
+(b) commercial use of the Software or derivative works;
+(c) offering the Software or derivative works through paid SaaS, subscription, or monetized hosted platforms;
+(d) distributing the Software as part of any paid product or paid bundle.
+
+5. No Trademark Grant
+This License does not grant any rights to use the Licensor's trademarks, service marks, logos, or branding, except as required for factual attribution.
+
+6. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. Limitation of Liability
+IN NO EVENT SHALL THE LICENSOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. Termination
+Any use of the Software in violation of this License automatically terminates the rights granted under this License.
+
+9. Definitions
+"You" means an individual or legal entity exercising permissions granted by this License.
+"Licensor" means the copyright holder or entity authorized by the copyright holder.
+
+## Ecosystem Distribution Model
+
+Kivode+ is maintained as a Reference Implementation and supports an ecosystem of Independent Fork projects.
+
+Developers may:
+- create independent versions,
+- rename their versions,
+- publish their own repositories.
+
+All distributions and derivative works must continue to comply with the non-commercial restrictions in this License.
+
+To be considered for official Directory Listing, developers must submit their projects for review:
+https://kivode.com/apps/submit
