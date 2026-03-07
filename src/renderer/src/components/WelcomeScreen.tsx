@@ -531,7 +531,7 @@ export function WelcomeScreen() {
       </motion.div>
 
       <div className="mt-auto py-8 text-center text-sm text-muted-foreground/60 border-t border-border/30 relative z-10 backdrop-blur-sm">
-        <p>Kivode+ v1.0.0 • Built with Electron + React</p>
+        <p>Kivode+ v1.1.0 • Built with Electron + React + Love</p>
       </div>
     </div>
   );
